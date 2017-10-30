@@ -1,0 +1,10 @@
+*.rbs
+venv*
+*.py[oc]
+__pycache__
+~*
+*.bak
+.vscode
+/build
+/dist
+*.egg-info
